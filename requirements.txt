@@ -5,3 +5,5 @@ requests
 lxml
 cssselect
 beautifulsoup4
+selenium
+

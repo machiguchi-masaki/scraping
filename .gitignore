@@ -1,2 +1,5 @@
 data
 work
+chromedriver
+geckodriver.log
+__pycache__
